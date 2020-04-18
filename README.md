@@ -18,3 +18,6 @@ https://paperswithcode.com/paper/tracking-objects-as-points
 
 
 https://motchallenge.net
+
+
+https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e
