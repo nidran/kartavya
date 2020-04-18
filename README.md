@@ -15,3 +15,6 @@ https://paperswithcode.com/paper/efficientdet-scalable-and-efficient-object
 https://paperswithcode.com/paper/a-simple-baseline-for-multi-object-tracking
 
 https://paperswithcode.com/paper/tracking-objects-as-points
+
+
+https://motchallenge.net
